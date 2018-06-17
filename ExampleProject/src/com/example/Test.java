@@ -6,9 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("new1");
-
 		System.out.println("old1");
-		
+		System.out.println("new2");
 	}
 
 }
