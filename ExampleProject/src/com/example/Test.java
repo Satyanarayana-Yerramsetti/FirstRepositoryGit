@@ -8,6 +8,10 @@ public class Test {
 		System.out.println("new1");
 		System.out.println("old1");
 		System.out.println("new2");
+		System.out.println("new1");
+		System.out.println("old2");
+		
+		
 	}
 
 }
